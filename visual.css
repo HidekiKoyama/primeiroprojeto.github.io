@@ -1,0 +1,69 @@
+
+/* Primeira página, pagina de login para o site principal*/
+
+.fundo_login {
+	margin-top: 122px;
+	background-color: #88ffea;	
+	
+}
+
+.box {
+	box-sizing: border-box;
+	background-color: #7D00FF;
+	padding: center;
+	height: center;
+	border-radius: 22px;
+	margin: center;
+	width: center;
+}
+
+.login {
+	height: 110px;
+	width: 70px;
+	margin: 0 auto;
+}
+
+
+/*Fim do login*/
+
+
+
+
+
+/*Documento: página principal*/
+
+html {
+    height: 100%; /* Define o tamanho do Documento HTML */
+}
+
+body {
+	background-color: #F3DAFF;
+    font-family: "Century Gothic";
+	height: 100%;
+    margin: 0 auto; /* Centraliza */
+    padding: 8px;
+    width: 70%; /* Define a largura do Corpo do Documento */	
+}
+
+.ola  {
+	background-color: #00DC86;
+	
+}
+
+.lofi{
+		height: 315;
+		width: 560;
+		float: auto;	
+}
+
+.rodape {
+	height: auto;
+	text-align: center; 
+	background-color: white;
+	width: 120%;
+	margin: auto;
+}
+
+.insta {
+	text-align: center;
+}
