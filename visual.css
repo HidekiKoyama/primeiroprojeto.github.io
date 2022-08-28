@@ -1,39 +1,63 @@
 
 /* Primeira página, pagina de login para o site principal*/
 
-.fundo_login {
-	margin-top: 122px;
-	background-color: #88ffea;	
-	
-}
+.fundo_principal {
 
-.box {
-	box-sizing: border-box;
-	background-color: #7D00FF;
-	padding: center;
-	height: center;
-	border-radius: 22px;
-	margin: center;
-	width: center;
-}
+	background-color: black;
+	font-family: "Contury Gothic";
+	height: 100%;
+	width: 70%;
+	padding: auto;
 
-.login {
-	height: 110px;
-	width: 70px;
-	margin: 0 auto;
+
+
 }
 
 
-/*Fim do login*/
+.pt1 {
+
+	padding: 0 auto;
+	height: 12%;
+	width: 70%;
+}
+
+.pttxt1 {
+
+	height: 12%;
+}
+
+.experiencias {
+
+	background-color: #F3DAFF;
+	width: 0 auto;
+	height: auto;
+}
+.qualific {
+	background-color: #F3DAFF;
+}
+
+
+/*Fim da página principal o que seria meu portifolio*/
 
 
 
 
 
-/*Documento: página principal*/
+/*Documento: Projeto 1 Lofi*/
 
 html {
     height: 100%; /* Define o tamanho do Documento HTML */
+}
+
+.menu {
+
+	width: auto;
+	height: auto;
+	margin: 0px;
+	position: relative;
+	left: -120px;
+	color:#88ffea;
+
 }
 
 body {
@@ -57,13 +81,15 @@ body {
 }
 
 .rodape {
-	height: auto;
 	text-align: center; 
 	background-color: white;
-	width: 120%;
-	margin: auto;
+	width: 100%;
+	margin: 0 auto;
+	height: auto;
 }
 
 .insta {
 	text-align: center;
 }
+
+/* Fim Do Projeto 1 Lofi*/
